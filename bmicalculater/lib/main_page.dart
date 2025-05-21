@@ -14,7 +14,7 @@ class _MainPageState extends State<MainPage> {
       body: 
         SafeArea(
           child: Container(
-            color: Colors.white,
+            color: Colors.red,
             child: Padding(
               padding: const EdgeInsets.all(8.0),
               child: Column(
